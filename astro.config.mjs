@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://itspat47.github.io',
+	site: 'https://guilletpatrick.fr',
 	base: '/cv_pat/',
 	trailingSlash: 'always',
 	integrations: [
